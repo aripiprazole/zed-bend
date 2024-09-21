@@ -7,5 +7,5 @@ description = "Bend support."
 repository = "https://github.com/your-name/my-zed-extension"
 
 [grammars.bend]
-repository = "https://github.com/LaBatata101/tree-sitter-bend.git"
-commit = "0e8a2c89fa2b2e19b07a2a7e11f1ebf0f7323eba"
+repository = "https://github.com/HigherOrderCO/tree-sitter-bend.git"
+commit = "ff9cbba30805f2defd1a8390079fd1b881922a1c"
