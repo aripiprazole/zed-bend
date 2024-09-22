@@ -1,10 +1,14 @@
 id = "bend"
 name = "Bend"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Pedro Braga <mrhenribraga@gmail.com>"]
 description = "Bend support."
 repository = "https://github.com/your-name/my-zed-extension"
+
+[language_servers.bendlsp]
+name = "bendlsp"
+languages = ["Bend", "Bend Interface"]
 
 [grammars.bend]
 repository = "https://github.com/HigherOrderCO/tree-sitter-bend.git"
